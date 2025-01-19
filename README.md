@@ -40,6 +40,15 @@
 
 
 
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <h3> Github stat </h3>
+    <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dltjdska32&bg_color=60,e69494,42729e&title_color=ffffff&text_color=ffffff"/>       <h3> Most used language </h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjdska32&layout=compact&bg_color=60,e69494,42729e&title_color=ffffff&text_color=ffffff"/> </div> 
+    <h3> Backjoon solved rank </h3>
+    ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32)
+</div>
+
     
     
 
