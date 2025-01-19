@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/이성남-FFCA28?style=flat-square&logo=이성남&logoColor=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongNam's GitHub&fontSize=90" />
