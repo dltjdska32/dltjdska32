@@ -8,9 +8,6 @@
 
 **꾸준히 성장하는 백엔드 개발자가 되기 위해 노력하는 이성남입니다.**
 
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dltjdska32@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dltjdska32)
-
 </div>
 
 <br>
@@ -44,15 +41,38 @@
 
 <br>
 
+## 📞 Contact me
+
+<div align="center">
+
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjdska32@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dltjdska32)
+
+</div>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjdska32&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjdska32&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dltjdska32&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjdska32&layout=compact&theme=radical&hide_border=true" height="170"/>
 
-### 🏆 Baekjoon Solved Rank
+</div>
+
+<br>
+
+## 🏆 Baekjoon Solved Rank
+
+<div align="center">
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32)
 
 </div>
+
+<br>
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
+</p>
