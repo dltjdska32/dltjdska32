@@ -56,9 +56,3 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32)
 
 </div>
-
-<br>
-
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
-</p>
