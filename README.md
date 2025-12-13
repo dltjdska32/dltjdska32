@@ -3,10 +3,11 @@
 
 ## 👋 백엔드 개발자 이성남
 
-**꾸준히 성장하는 백엔드 개발자가 되기 위해 노력하는 이성남입니다.**
+**안녕하세요. 꾸준히 성장하며 더 좋은 서비스를 만들기 위해 노력하는 백엔드 개발자 이성남입니다.**
 
-[![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dltjdska32@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dltjdska32)
+### 📮 Contact
+- **Email**: [dltjdska32@naver.com](mailto:dltjdska32@naver.com)
+- **GitHub**: [github.com/dltjdska32](https://github.com/dltjdska32)
 
 ---
 
@@ -14,45 +15,31 @@
 
 ### 💻 Language
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- Java, JavaScript, Python, C, C++
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+- HTML5, CSS3, jQuery
 
 ### ⚙️ Backend Framework
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+- Spring Boot
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+- MySQL, MongoDB, MSSQL, Redis, Elasticsearch
 
 ### ☁️ Cloud & Services
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- AWS, Firebase
 
 ### 🛠️ Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Git, GitHub, Docker, Linux
 
 ### 📱 Mobile
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+- Android
 
 ---
 
@@ -64,8 +51,5 @@
 
 ### 🏆 Baekjoon Solved Rank
 
+|:--:|
 | ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32) |
-|:--:|
-
-| ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer) |
-|:--:|
