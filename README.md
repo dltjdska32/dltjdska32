@@ -26,7 +26,7 @@
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+
           <br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
