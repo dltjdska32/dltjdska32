@@ -8,86 +8,141 @@
 
 **꾸준히 성장하는 백엔드 개발자가 되기 위해 노력하는 이성남입니다.**
 
+<br>
+
+[![Naver](https://img.shields.io/badge/📮_Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjdska32@naver.com)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dltjdska32)
+
 </div>
 
 <br>
 
----
-
-<div align="center">
-
 ## 📚 Tech Stacks
+
+<table>
+<tr>
+<td align="center" width="150px">
 
 ### 💻 Language
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+</td>
+<td>
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+</td>
+<td>
 
-### ⚙️ Backend Framework
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### ⚙️ Backend
+
+</td>
+<td>
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+</td>
+<td>
 
-### ☁️ Cloud & Services
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</td>
+</tr>
+<tr>
+<td align="center">
 
-### 🛠️ Tools & DevOps
+### ☁️ Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🛠️ DevOps
+
+</td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### 📱 Mobile
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+</td>
+<td>
 
-</div>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-<div align="center">
+<br>
 
-## 🤣 Contact me
-
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjdska32@naver.com)
-
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 🏅 Stats
-
-### Github stat
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjdska32&bg_color=60,e69494,42729e&title_color=ffffff&text_color=ffffff)
-
-### Most used language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjdska32&layout=compact&bg_color=60,e69494,42729e&title_color=ffffff&text_color=ffffff)
-
-### Baekjoon solved rank
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32)
+<img src="https://github-readme-stats.vercel.app/api?username=dltjdska32&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjdska32&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 🏆 Baekjoon Solved Rank
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjdska32)](https://solved.ac/dltjdska32)
+
+</div>
+
+<br>
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
+</p>
