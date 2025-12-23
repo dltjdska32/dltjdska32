@@ -42,7 +42,7 @@
 **⚙️ Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-.NET-white?logo=.net&logoColor=512BD4&labelColor=512BD4)
+![.NET](https://img.shields.io/badge/.NET-.NET-512BD4)
 
 **🗄️ Database**
 
