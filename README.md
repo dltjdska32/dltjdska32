@@ -74,6 +74,19 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dltjdska32&theme=radical" alt="GitHub Stats" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltjdska32&theme=radical" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltjdska32&theme=radical&utcOffset=9" alt="GitHub Stats" width="49%" />
+
+</div>>
+
 <br>
 
 ## 🏆 Baekjoon Solved Rank
