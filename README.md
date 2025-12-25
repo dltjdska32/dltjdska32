@@ -68,11 +68,9 @@
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dltjdska32&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dltjdska32&theme=radical&no-frame=true&column=7)
 
 </div>
 
