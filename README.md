@@ -68,11 +68,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dltjdska32&theme=radical&no-frame=true&column=7)
-
-</div>
 
 <div align="center">
 
