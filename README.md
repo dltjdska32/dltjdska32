@@ -81,7 +81,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltjdska32&theme=radical" alt="GitHub Stats" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltjdska32&theme=radical&utcOffset=9" alt="GitHub Stats" width="49%" />
 
-</div>>
+</div>
 
 <br>
 
